@@ -1,0 +1,143 @@
+{
+	"lanes": {
+		"product": 
+		{
+			"color": "#303F9F",
+			"columns": [
+				{
+					"label": "Q1 2019", 
+					"id": "PQ119",
+					"items": [
+						{"id": 1, "item": "Calculate standalone selling price", "owner": "Ravi Botla"},
+						{"id": 2, "item": "UI for Performance obligation", "owner": "Ravi Botla"},
+						{"id": 3, "item": "Contract and Contract line setup UI", "owner": "Ravi Botla"},
+						{"id": 4, "item": "Idenitfy top 70% revenue generating customers", "owner": "Ravi Botla"},
+						{"id": 5, "item": "Non-standard pricing models - tier pricing, service packs, per month per member pricing", "owner": "Ravi Botla"}
+					]
+				},
+				{
+					"label": "Q2 2019", 
+					"id": "PQ219",
+					"items": [
+						{"id": 6, "item": "Product GL mapping", "owner": "Ravi Botla"},
+						{"id": 7, "item": "Capture SSP stratification - customer size, agreement type, wholesale/retail, PAR flag", "owner": "Ravi Botla"},
+						{"id": 8, "item": "Capture trigger informaiton - go-live dates from Siebel and Salesforce service cloud", "owner": "Ravi Botla"},
+						{"id": 9, "item": "Extract, Transform and Load 605 invoice & revenue informaiton from RTDB", "owner": "Ravi Botla"},
+						{"id": 10, "item": "Compute revised TCV based on last 4 months run rate", "owner": "Ravi Botla"}
+					]
+				},
+				{
+					"label": "Q3 2019", 
+					"id": "PQ319",
+					"items": [
+						{"id": 11, "item": "Compute relative selling price for each agreement line and adjust allocation", "owner": "Ravi Botla"},
+						{"id": 12, "item": "Compute cumulative catchup amount based on the revised TCV", "owner": "Ravi Botla"},
+						{"id": 13, "item": "Generate waterfall for all agreements impacted in the current billing month.", "owner": "Ravi Botla"},
+						{"id": 14, "item": "Compute 606 GL adjustment entries", "owner": "Ravi Botla"},
+						{"id": 15, "item": "A feature to lock 606 sub ledger (in RMS)", "owner": "Ravi Botla"}
+					]
+				},
+				{
+					"label": "Q4 2019", 
+					"id": "PQ419",
+					"items": [
+						{"id": 16, "item": "Post 606 GL adjustments to Oracle 12.2", "owner": "Ravi Botla"},
+						{"id": 17, "item": "Excel based solution to override SSP", "owner": "Ravi Botla"},
+						{"id": 18, "item": "Excel based solution to override revised TCV informaiton", "owner": "Ravi Botla"},
+						{"id": 18, "item": "TCV forecast reporting", "owner": "Ravi Botla"},
+						{"id": 19, "item": "Agreement wise 606 GL adjustments report", "owner": "Ravi Botla"},
+						{"id": 20, "item": "Disclosure reporting", "owner": "Ravi Botla"}
+					]
+				}
+			]
+		},
+		"Technology":
+		{
+			"color": "#4fb7f9",
+			"columns": [
+				{
+					"label": "Q1 2019", 
+					"id": "TQ119",
+					"items": [
+						{"id": 21, "item": "Create AWS environment - Talend & RDS SQL Server", "owner": "Ravi Botla"},
+						{"id": 22, "item": "", "owner": "Ravi Botla"},
+						{"id": 23, "item": "Calculate standalone selling price", "owner": "Ravi Botla"},
+						{"id": 24, "item": "Calculate standalone selling price", "owner": "Ravi Botla"}
+					]
+				},				{
+					"label": "Q1 2019", 
+					"id": "TQ219",
+					"items": [
+						{"id": 25, "item": "Create AWS environment - Talend & RDS SQL Server", "owner": "Ravi Botla"},
+						{"id": 26, "item": "", "owner": "Ravi Botla"},
+						{"id": 27, "item": "Calculate standalone selling price", "owner": "Ravi Botla"},
+						{"id": 28, "item": "Calculate standalone selling price", "owner": "Ravi Botla"}
+					]
+				},				{
+					"label": "Q1 2019", 
+					"id": "TQ319",
+					"items": [
+						{"id": 29, "item": "Create AWS environment - Talend & RDS SQL Server", "owner": "Ravi Botla"},
+						{"id": 30, "item": "", "owner": "Ravi Botla"},
+						{"id": 31, "item": "Calculate standalone selling price", "owner": "Ravi Botla"},
+						{"id": 32, "item": "Calculate standalone selling price", "owner": "Ravi Botla"}
+					]
+				},
+				{
+					"label": "Q2 2019", 
+					"id": "TQ419",
+					"items": [
+						{"id": 33, "item": "Calculate standalone selling price", "owner": "Ravi Botla"},
+						{"id": 34, "item": "Calculate standalone selling price", "owner": "Ravi Botla"},
+						{"id": 35, "item": "Calculate standalone selling price", "owner": "Ravi Botla"},
+						{"id": 36, "item": "Calculate standalone selling price", "owner": "Ravi Botla"}
+					]
+				}
+			]
+		},
+		"Marketing":
+		{
+			"color": "#c9347b",
+			"columns": [
+				{
+					"label": "Q1 2019", 
+					"id": "MQ119",
+					"items": [
+						{"id": 37, "item": "Create AWS environment - Talend & RDS SQL Server", "owner": "Ravi Botla"},
+						{"id": 38, "item": "", "owner": "Ravi Botla"},
+						{"id": 39, "item": "Calculate standalone selling price", "owner": "Ravi Botla"},
+						{"id": 40, "item": "Calculate standalone selling price", "owner": "Ravi Botla"}
+					]
+				},				{
+					"label": "Q1 2019", 
+					"id": "MQ219",
+					"items": [
+						{"id": 41, "item": "Create AWS environment - Talend & RDS SQL Server", "owner": "Ravi Botla"},
+						{"id": 42, "item": "", "owner": "Ravi Botla"},
+						{"id": 43, "item": "Calculate standalone selling price", "owner": "Ravi Botla"},
+						{"id": 44, "item": "Calculate standalone selling price", "owner": "Ravi Botla"}
+					]
+				},				{
+					"label": "Q1 2019", 
+					"id": "MQ319",
+					"items": [
+						{"id": 45, "item": "Create AWS environment - Talend & RDS SQL Server", "owner": "Ravi Botla"},
+						{"id": 46, "item": "", "owner": "Ravi Botla"},
+						{"id": 47, "item": "Calculate standalone selling price", "owner": "Ravi Botla"},
+						{"id": 48, "item": "Calculate standalone selling price", "owner": "Ravi Botla"}
+					]
+				},
+				{
+					"label": "Q2 2019", 
+					"id": "MQ419",
+					"items": [
+						{"id": 49, "item": "Calculate standalone selling price", "owner": "Ravi Botla"},
+						{"id": 50, "item": "Calculate standalone selling price", "owner": "Ravi Botla"},
+						{"id": 51, "item": "Calculate standalone selling price", "owner": "Ravi Botla"},
+						{"id": 52, "item": "Calculate standalone selling price", "owner": "Ravi Botla"}
+					]
+				}
+			]
+		}
+	}
+}
